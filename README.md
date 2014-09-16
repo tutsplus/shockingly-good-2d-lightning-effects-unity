@@ -1,6 +1,6 @@
 ### Tuts+ Tutorial: How to Create Shockingly Good 2D Lightning Effects in Unity
 
-#### Instructor: Andrew Burgess
+#### Instructor: Aron Davis
 
 There are plenty of uses for lightning effects in games, from background ambiance during a storm to the devastating lightning attacks of a sorcerer. In this tutorial, I'll explain how to programmatically generate awesome 2D lightning effects: bolts, branches, and even text, all in Unity, using JavaScript or C#.
 
